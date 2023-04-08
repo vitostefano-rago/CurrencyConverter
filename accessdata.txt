@@ -1,0 +1,5 @@
+The url of the API used is:
+https://api.apilayer.com/exchangerates_data/latest
+The related id is:
+n0tsh4r1ngth1s
+(Please get Your own access data at apilayer.com)
